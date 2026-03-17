@@ -6,12 +6,12 @@
 
 ---
 
-### 🚀 What I'm Building
-- 🔭 **I’m currently architecting** a modern fitness platform featuring AI-driven calorie tracking via photo recognition and dynamic progress visualization.
-- ⚡ **I'm engineering** an intelligent Chrome extension that functions as an automated browser agent, leveraging Antigravity and the Gemini API.
-- 💼 **Recent enterprise work includes** developing **DocX**, a comprehensive E-Hospital System. I engineered the relational database schema, designed the patient-facing UI, and formulated the Software Requirements Specification (SRS).
-- 🌱 **I’m currently deepening my expertise in** scalable Java Spring Boot architectures, microservices, and advanced AI search algorithms.
-- 👯 **I’m looking to collaborate on** high-impact full-stack open-source projects and AI-driven applications.
+###  What I'm Building
+-  **I’m currently architecting** a modern fitness platform featuring AI-driven calorie tracking via photo recognition and dynamic progress visualization.
+-  **I'm engineering** an intelligent Chrome extension that functions as an automated browser agent, leveraging Antigravity and the Gemini API.
+-  **Recent enterprise work includes** developing **DocX**, a comprehensive E-Hospital System. I engineered the relational database schema, designed the patient-facing UI, and formulated the Software Requirements Specification (SRS).
+-  **I’m currently deepening my expertise in** scalable Java Spring Boot architectures, microservices, and advanced AI search algorithms.
+-  **I’m looking to collaborate on** high-impact full-stack open-source projects and AI-driven applications.
 
 ### 🛠️ Technical Arsenal
 
