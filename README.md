@@ -4,19 +4,19 @@
   <p>Passionate about building scalable web applications, integrating AI solutions, and writing clean, maintainable code. Currently seeking a <b>Software Engineering Internship</b> to tackle complex engineering challenges.</p>
 
   <!-- Social Links (Replace with actual links) -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/uthayakumaran-suganth-a49a68383/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:suganthdz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
 </div>
 
 <br/>
 
 ### 🚀 What I'm Building
-- 🏋️‍♂️ **Architecting** a modern fitness platform featuring AI-driven calorie tracking via photo recognition and dynamic progress visualization.
-- 🤖 **Engineering** an intelligent Chrome extension that functions as an automated browser agent, leveraging Antigravity and the Gemini API.
-- 🏥 **Recent enterprise work:** Developed **DocX**, a comprehensive E-Hospital System. Engineered the relational database schema, designed the patient-facing UI, and formulated the Software Requirements Specification (SRS).
-- 📚 **Deepening expertise in** scalable Java Spring Boot architectures, microservices, and advanced AI search algorithms.
-- 🤝 **Looking to collaborate on** high-impact full-stack open-source projects and AI-driven applications.
+- **Architecting** a modern fitness platform featuring AI-driven calorie tracking via photo recognition and dynamic progress visualization.
+-  **Engineering** an intelligent Chrome extension that functions as an automated browser agent.
+- **Recent enterprise work:** Developed **DocX**, a comprehensive E-Hospital System. Engineered the relational database schema, designed the patient-facing UI, and formulated the Software Requirements Specification (SRS).
+- **Deepening expertise in** scalable Java Spring Boot architectures, microservices, and advanced AI search algorithms.
+- **Looking to collaborate on** high-impact full-stack open-source projects and AI-driven applications.
 
 ### 🛠️ Technical Arsenal
 
