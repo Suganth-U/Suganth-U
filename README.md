@@ -3,10 +3,10 @@
   <h4>Software Engineering Undergraduate @ University of Moratuwa | Full-Stack Developer</h4>
   <p>Passionate about building scalable web applications, integrating AI solutions, and writing clean, maintainable code. Currently seeking a <b>Software Engineering Internship</b> to tackle complex engineering challenges.</p>
 
-  <!-- Social Links (Replace with actual links) -->
+ 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/uthayakumaran-suganth-a49a68383/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:suganthdz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://suganth-u.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
 </div>
 
 <br/>
