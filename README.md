@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there, I'm Suganth 👋</h2>
-  <h4>Software Engineering Undergraduate @ University of Moratuwa | Full-Stack Developer</h4>
+  <h4>IT Undergraduate @ University of Moratuwa | Full-Stack Developer</h4>
   <p>Passionate about building scalable web applications, integrating AI solutions, and writing clean, maintainable code. Currently seeking a <b>Software Engineering Internship</b> to tackle complex engineering challenges.</p>
 
  
