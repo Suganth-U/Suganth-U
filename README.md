@@ -21,19 +21,14 @@
 ### 🛠️ Technical Arsenal
 
 <p align="center">
-  <!-- Frontend & Backend -->
+ 
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,js,html,css" />
   <br>
-  <!-- Databases & Tools -->
+  
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,selenium,git,github,postman,docker" />
 </p>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suganth-U&show_icons=true&theme=radical&hide_border=true" alt="Suganth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth-U&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
